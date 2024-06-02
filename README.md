@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Alejandro 👋
 
 - 🔭 I’m currently working on GenAI projects
 - 🌱 I’m currently learning LLM model architectures and RAPIDS
@@ -8,7 +8,8 @@
   <img alt="Shell Script" src="https://img.shields.io/badge/-Shell Script-2C3840?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img alt="Python 3" src="https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=python&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" />
-  <img alt="Lightning" src="https://img.shields.io/badge/-Lightning-792de4?style=flat-square&logo=lightning&logoColor=white" />
+  <img alt="RAPIDS" src="https://img.shields.io/badge/-RAPIDS-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" />
+<!--   <img alt="Lightning" src="https://img.shields.io/badge/-Lightning-792de4?style=flat-square&logo=lightning&logoColor=white" /> -->
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-0073ec?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
