@@ -17,9 +17,3 @@
   <img alt="ChatPGT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />
 </p>
-
-[![Alejandro's github stats](https://github-readme-stats.vercel.app/api?username=alejandrogarcia-hub&show_icons=true&theme=gotham&border_color=2ba888)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrogarcia-hub&layout=compact&size_weight=0&count_weight=1&theme=gotham&border_color=2ba888)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=alejandrogarcia-hub&theme=onedark&margin-w=15&margin-h=15&no-bg=true&rank=-C&column=4)](https://github.com/ryo-ma/github-profile-trophy)
