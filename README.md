@@ -1,7 +1,7 @@
 ## Hi there, I'm Alejandro 👋
 
-- 🔭 I’m currently working on GenAI projects
-- 🌱 I’m currently learning LLM model architectures and RAPIDS
+- 🔭 I’m currently working on AI and Blockchain projects
+- 🌱 I’m currently learning RAPIDS, libcudf ...
 - 📫 How to reach me: best by email
 
 <p>
